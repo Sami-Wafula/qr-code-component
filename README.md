@@ -6,13 +6,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](https://sami-wafula.github.io/qr-code-component/)
+  - [Links](#links)
   - [My process](create skeleton using html, work out the magic with css)
   - [Built with](html, css)
   - [What I learned](Applying css flexbox and media queries)
   - [Continued development](#continued-development)
   - [Useful resources](www.w3schools.com and the front-end mentor slack channel)
-- [Author](Sami Wafula)
+- [Author](https://github.com/Sami-Wafula/)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -32,8 +32,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sami-wafula.github.io/qr-code-component/)
 
 ## My process
 
